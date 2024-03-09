@@ -28,9 +28,9 @@
 
 ## Installation
 ```
-git clone https://github.com/your-username/article-summarization-website.git
+git clone https://github.com/Anubhav-dev-web/AI_Summarizer.git)
 
-cd article-summarization-website
+cd AI_Summarizer
 
 npm install
 
